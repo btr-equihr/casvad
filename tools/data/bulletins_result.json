@@ -1,0 +1,173 @@
+{
+ "tab_pages": {
+  "notificationsearch/Bulletins/Circular/BullNotification/Circular.html": {
+   "notification": "notificationsearch/Bulletins/Circular/BullNotification/Circular-notification.html",
+   "circular": "notificationsearch/Bulletins/Circular/BullNotification/Circular-circular.html",
+   "press-release": "notificationsearch/Bulletins/Circular/BullNotification/Circular-press-release.html",
+   "news": null
+  },
+  "notificationsearch/Bulletins/Notification/BullNotification/Notification.html": {
+   "notification": null,
+   "circular": "notificationsearch/Bulletins/Notification/BullNotification/Notification-circular.html",
+   "press-release": "notificationsearch/Bulletins/Notification/BullNotification/Notification-press-release.html",
+   "news": null
+  },
+  "resources/Bulletins/Accounting_Standards_INDAS/aspx.html": {
+   "notification": null,
+   "circular": null,
+   "press-release": null,
+   "news": null
+  },
+  "resources/Bulletins/Central_Sales_Tax/Central_Sales_Tax.html": {
+   "notification": null,
+   "circular": null,
+   "press-release": null,
+   "news": null
+  },
+  "resources/Bulletins/Compensation_Cess/aspx.html": {
+   "notification": null,
+   "circular": null,
+   "press-release": null,
+   "news": null
+  },
+  "resources/Bulletins/Corporate_Matters/Corporate_Matters.html": {
+   "notification": null,
+   "circular": "resources/Bulletins/Corporate_Matters/Corporate_Matters-circular.html",
+   "press-release": null,
+   "news": null
+  },
+  "resources/Bulletins/Customs/Customs.html": {
+   "notification": null,
+   "circular": null,
+   "press-release": null,
+   "news": null
+  },
+  "resources/Bulletins/Delhi_VAT/Delhi_VAT.html": {
+   "notification": null,
+   "circular": null,
+   "press-release": null,
+   "news": null
+  },
+  "resources/Bulletins/Excise_Matters/Excise_Matters.html": {
+   "notification": null,
+   "circular": null,
+   "press-release": null,
+   "news": null
+  },
+  "resources/Bulletins/F_E_M_A/F_E_M_A.html": {
+   "notification": null,
+   "circular": null,
+   "press-release": null,
+   "news": null
+  },
+  "resources/Bulletins/GST/GST.html": {
+   "notification": null,
+   "circular": null,
+   "press-release": null,
+   "news": null
+  },
+  "resources/Bulletins/Gujarat_VAT/aspx.html": {
+   "notification": null,
+   "circular": null,
+   "press-release": null,
+   "news": null
+  },
+  "resources/Bulletins/IBC_Regulation/aspx.html": {
+   "notification": null,
+   "circular": null,
+   "press-release": null,
+   "news": null
+  },
+  "resources/Bulletins/IGST/aspx.html": {
+   "notification": null,
+   "circular": null,
+   "press-release": null,
+   "news": null
+  },
+  "resources/Bulletins/Income_Tax/Income_Tax.html": {
+   "notification": "resources/Bulletins/Income_Tax/Income_Tax-notification.html",
+   "circular": "resources/Bulletins/Income_Tax/Income_Tax-circular.html",
+   "press-release": null,
+   "news": null
+  },
+  "resources/Bulletins/Labour_Laws/Labour_Laws.html": {
+   "notification": null,
+   "circular": null,
+   "press-release": null,
+   "news": null
+  },
+  "resources/Bulletins/Mumbai_VAT/aspx.html": {
+   "notification": null,
+   "circular": null,
+   "press-release": null,
+   "news": null
+  },
+  "resources/Bulletins/News_on_LLP/News_on_LLP.html": {
+   "notification": null,
+   "circular": null,
+   "press-release": null,
+   "news": null
+  },
+  "resources/Bulletins/Other/Other.html": {
+   "notification": null,
+   "circular": null,
+   "press-release": null,
+   "news": null
+  },
+  "resources/Bulletins/RBISEBI/RBISEBI.html": {
+   "notification": "resources/Bulletins/RBISEBI/RBISEBI-notification.html",
+   "circular": null,
+   "press-release": "resources/Bulletins/RBISEBI/RBISEBI-press-release.html",
+   "news": null
+  },
+  "resources/Bulletins/Service_Tax/Service_Tax.html": {
+   "notification": null,
+   "circular": null,
+   "press-release": null,
+   "news": null
+  },
+  "resources/Bulletins/TamilNadu_VAT/aspx.html": {
+   "notification": null,
+   "circular": null,
+   "press-release": null,
+   "news": null
+  },
+  "resources/Bulletins/Telangana_VAT/aspx.html": {
+   "notification": null,
+   "circular": null,
+   "press-release": null,
+   "news": null
+  },
+  "resources/Bulletins/UTGST/aspx.html": {
+   "notification": null,
+   "circular": null,
+   "press-release": null,
+   "news": null
+  }
+ },
+ "built": [
+  "detail/61381.html",
+  "detail/61380.html",
+  "detail/61379.html",
+  "detail/61378.html",
+  "detail/61377.html",
+  "detail/61376.html",
+  "detail/61375.html",
+  "detail/61374.html",
+  "detail/61373.html",
+  "detail/61372.html",
+  "detail/61371.html",
+  "detail/61370.html",
+  "detail/61369.html",
+  "detail/61368.html",
+  "detail/61367.html",
+  "detail/61366.html",
+  "detail/61365.html",
+  "detail/61364.html",
+  "detail/61363.html",
+  "detail/61362.html",
+  "detail/61266.html",
+  "resources/Utilities/NIC/Division-67_Section-J.html"
+ ],
+ "failed": []
+}

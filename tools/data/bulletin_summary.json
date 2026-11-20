@@ -1,0 +1,194 @@
+{
+ "https://svad.org.in/notificationsearch/Bulletins/Circular/BullNotification/Circular.aspx": {
+  "key": "6f3be775c1",
+  "default": 2,
+  "notification": 36,
+  "circular": 2,
+  "press-release": 396,
+  "news": 0
+ },
+ "https://svad.org.in/notificationsearch/Bulletins/Notification/BullNotification/Notification.aspx": {
+  "key": "e393437cab",
+  "default": 0,
+  "notification": 0,
+  "circular": 3,
+  "press-release": 396,
+  "news": 0
+ },
+ "https://svad.org.in/resources/Bulletins/Accounting_Standards_INDAS/.aspx": {
+  "key": "e9609c7900",
+  "default": 0,
+  "notification": 0,
+  "circular": 0,
+  "press-release": 0,
+  "news": 0
+ },
+ "https://svad.org.in/resources/Bulletins/Central_Sales_Tax/Central_Sales_Tax.aspx": {
+  "key": "4dc814d633",
+  "default": 0,
+  "notification": 0,
+  "circular": 0,
+  "press-release": 0,
+  "news": 0
+ },
+ "https://svad.org.in/resources/Bulletins/Compensation_Cess/.aspx": {
+  "key": "ff8c3443da",
+  "default": 0,
+  "notification": 0,
+  "circular": 0,
+  "press-release": 0,
+  "news": 0
+ },
+ "https://svad.org.in/resources/Bulletins/Corporate_Matters/Corporate_Matters.aspx": {
+  "key": "a340fd825f",
+  "default": 0,
+  "notification": 0,
+  "circular": 2,
+  "press-release": 0,
+  "news": 0
+ },
+ "https://svad.org.in/resources/Bulletins/Customs/Customs.aspx": {
+  "key": "8acda6568b",
+  "default": 0,
+  "notification": 0,
+  "circular": 0,
+  "press-release": 0,
+  "news": 0
+ },
+ "https://svad.org.in/resources/Bulletins/Delhi_VAT/Delhi_VAT.aspx": {
+  "key": "08f9600599",
+  "default": 0,
+  "notification": 0,
+  "circular": 0,
+  "press-release": 0,
+  "news": 0
+ },
+ "https://svad.org.in/resources/Bulletins/Excise_Matters/Excise_Matters.aspx": {
+  "key": "d675fd0271",
+  "default": 0,
+  "notification": 0,
+  "circular": 0,
+  "press-release": 0,
+  "news": 0
+ },
+ "https://svad.org.in/resources/Bulletins/F_E_M_A/F_E_M_A.aspx": {
+  "key": "d15120e9ee",
+  "default": 0,
+  "notification": 0,
+  "circular": 0,
+  "press-release": 0,
+  "news": 0
+ },
+ "https://svad.org.in/resources/Bulletins/GST/GST.aspx": {
+  "key": "fbda54f8cf",
+  "default": 0,
+  "notification": 0,
+  "circular": 0,
+  "press-release": 0,
+  "news": 0
+ },
+ "https://svad.org.in/resources/Bulletins/Gujarat_VAT/.aspx": {
+  "key": "7865cb8be8",
+  "default": 0,
+  "notification": 0,
+  "circular": 0,
+  "press-release": 0,
+  "news": 0
+ },
+ "https://svad.org.in/resources/Bulletins/IBC_Regulation/.aspx": {
+  "key": "462d48cbf2",
+  "default": 0,
+  "notification": 0,
+  "circular": 0,
+  "press-release": 0,
+  "news": 0
+ },
+ "https://svad.org.in/resources/Bulletins/IGST/.aspx": {
+  "key": "1fe34e1884",
+  "default": 0,
+  "notification": 0,
+  "circular": 0,
+  "press-release": 0,
+  "news": 0
+ },
+ "https://svad.org.in/resources/Bulletins/Income_Tax/Income_Tax.aspx": {
+  "key": "9e5cf07ea7",
+  "default": 18,
+  "notification": 18,
+  "circular": 1,
+  "press-release": 0,
+  "news": 0
+ },
+ "https://svad.org.in/resources/Bulletins/Labour_Laws/Labour_Laws.aspx": {
+  "key": "b08d863e2b",
+  "default": 0,
+  "notification": 0,
+  "circular": 0,
+  "press-release": 0,
+  "news": 0
+ },
+ "https://svad.org.in/resources/Bulletins/Mumbai_VAT/.aspx": {
+  "key": "8ce5f0aee3",
+  "default": 0,
+  "notification": 0,
+  "circular": 0,
+  "press-release": 0,
+  "news": 0
+ },
+ "https://svad.org.in/resources/Bulletins/News_on_LLP/News_on_LLP.aspx": {
+  "key": "1876c89b78",
+  "default": 0,
+  "notification": 0,
+  "circular": 0,
+  "press-release": 0,
+  "news": 0
+ },
+ "https://svad.org.in/resources/Bulletins/Other/Other.aspx": {
+  "key": "fd970339f0",
+  "default": 0,
+  "notification": 0,
+  "circular": 0,
+  "press-release": 0,
+  "news": 0
+ },
+ "https://svad.org.in/resources/Bulletins/RBISEBI/RBISEBI.aspx": {
+  "key": "f41001085a",
+  "default": 18,
+  "notification": 18,
+  "circular": 0,
+  "press-release": 396,
+  "news": 0
+ },
+ "https://svad.org.in/resources/Bulletins/Service_Tax/Service_Tax.aspx": {
+  "key": "90f08bcb17",
+  "default": 0,
+  "notification": 0,
+  "circular": 0,
+  "press-release": 0,
+  "news": 0
+ },
+ "https://svad.org.in/resources/Bulletins/TamilNadu_VAT/.aspx": {
+  "key": "6c044b1ec2",
+  "default": 0,
+  "notification": 0,
+  "circular": 0,
+  "press-release": 0,
+  "news": 0
+ },
+ "https://svad.org.in/resources/Bulletins/Telangana_VAT/.aspx": {
+  "key": "f41622dbd5",
+  "default": 0,
+  "notification": 0,
+  "circular": 0,
+  "press-release": 0,
+  "news": 0
+ },
+ "https://svad.org.in/resources/Bulletins/UTGST/.aspx": {
+  "key": "281300be62",
+  "default": 0,
+  "notification": 0,
+  "circular": 0,
+  "press-release": 0,
+  "news": 0
+ }
+}
